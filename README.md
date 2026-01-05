@@ -61,7 +61,7 @@ The 2026 iteration represents a major leap in flexibility and deployment ease:
 - **DheReckahApi Integration** — Centralized API layer enabling:
   - Multi-language payload generation and delivery
   - Supported languages: **Python, JavaScript, Go, Rust**
-  - All payloads dynamically connect to the **2FABypass/Signature page**
+  - All payloads dynamically connect to the **2FABypass/Signature**
 
 - **Zero-Modification Deployment**:
   - Upload once to any standard PHP hosting provider
