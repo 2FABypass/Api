@@ -36,7 +36,19 @@ It combines phishing simulation, session manipulation, and multi-language payloa
 
 - **Intermediate Versions (2021–2024)**: Introduced advanced session persistence techniques, response manipulation capabilities, and support for modern authentication flows.
 
-- **Current Version (2026)**: Completely rewritten in **PHP** with full integration of **DheReckahApi**.
+## 🚀 Current Version (2026)
+
+The project has been fully re‑engineered with deep integration of **DheReckahApi**, delivering true multi‑language compatibility across **all major programming languages** — including Python, JavaScript, Go, Rust, and many others.  
+Although universal support ensures seamless adoption, the core architecture is still powered by **PHP cURL**, which remains the backbone of the project due to its reliability, stability, and long‑proven deployment history.
+
+### Key Highlights
+- **[Universal Language Support](guide://action?prefill=Tell%20me%20more%20about%3A%20Universal%20Language%20Support)** — works with Python, JavaScript, Go, Rust, and more.
+- **[One‑Click Language Switching](guide://action?prefill=Tell%20me%20more%20about%3A%20One%E2%80%91Click%20Language%20Switching)** — instantly switch to any supported programming language with a single action.
+- **[DheReckahApi Integration](guide://action?prefill=Tell%20me%20more%20about%3A%20DheReckahApi%20Integration)** — unified API powering all modules.
+- **[PHP cURL Backbone](guide://action?prefill=Tell%20me%20more%20about%3A%20PHP%20cURL%20Backbone)** — the most used and most optimized implementation.
+- **[Docker Support](guide://action?prefill=Tell%20me%20more%20about%3A%20Docker%20Support)** — fully containerized environment for consistent, portable deployments.
+- **[Cross‑Platform Ready](guide://action?prefill=Tell%20me%20more%20about%3A%20Cross%E2%80%91Platform%20Ready)** — adaptable to any server or runtime environment.
+
 
 ### Latest Version Enhancements
 
